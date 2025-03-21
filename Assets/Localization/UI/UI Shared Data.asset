@@ -75,6 +75,10 @@ MonoBehaviour:
     m_Key: HandOverlayLabel
     m_Metadata:
       m_Items: []
+  - m_Id: 88455492259655680
+    m_Key: ManipulationText
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

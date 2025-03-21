@@ -78,6 +78,10 @@ MonoBehaviour:
     m_Localized: Hands
     m_Metadata:
       m_Items: []
+  - m_Id: 88455492259655680
+    m_Localized: Grab the with two hands to change its size
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
