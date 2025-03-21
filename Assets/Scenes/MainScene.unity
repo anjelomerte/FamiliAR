@@ -1420,8 +1420,8 @@ MonoBehaviour:
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
   allowSelectByVoice: 1
-  speechRecognitionKeyword: Neu
-  <VoiceRequiresFocus>k__BackingField: 1
+  speechRecognitionKeyword: "Neue W\xFCrfel"
+  <VoiceRequiresFocus>k__BackingField: 0
   <SelectRequiresHover>k__BackingField: 0
   <IsToggled>k__BackingField:
     active: 0
@@ -9346,8 +9346,8 @@ MonoBehaviour:
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
   allowSelectByVoice: 1
-  speechRecognitionKeyword: Neu
-  <VoiceRequiresFocus>k__BackingField: 1
+  speechRecognitionKeyword: Gravitation
+  <VoiceRequiresFocus>k__BackingField: 0
   <SelectRequiresHover>k__BackingField: 0
   <IsToggled>k__BackingField:
     active: 1
@@ -20944,7 +20944,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   opaqueDisplay:
-    clearMode: 1
+    clearMode: 2
     clearColor: {r: 0, g: 0, b: 0, a: 0}
     nearPlaneDistance: 0.1
     farPlaneDistance: 1000
@@ -23280,7 +23280,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -23542,7 +23542,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -23778,7 +23778,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -24040,7 +24040,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -24289,7 +24289,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -24538,7 +24538,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -24787,7 +24787,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -28739,7 +28739,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -37711,7 +37711,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -42361,7 +42361,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -43028,7 +43028,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
@@ -47147,7 +47147,7 @@ MonoBehaviour:
   <GazeDwellTime>k__BackingField: 1
   <UseFarDwell>k__BackingField: 0
   <FarDwellTime>k__BackingField: 1
-  allowSelectByVoice: 1
+  allowSelectByVoice: 0
   speechRecognitionKeyword: select
   <VoiceRequiresFocus>k__BackingField: 1
   <SelectRequiresHover>k__BackingField: 0
