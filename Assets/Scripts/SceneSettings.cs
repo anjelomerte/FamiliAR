@@ -2,7 +2,6 @@
 /// This script initializes the scene. AR playground is placed in front of user on start. Handmenu is enabled by default
 /// </summary>
 
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class SceneSettings : MonoBehaviour
@@ -55,7 +54,7 @@ public class SceneSettings : MonoBehaviour
 
         // Make playground face user
         arPlayground.transform.LookAt(userHead);
-        // Rotate playground about y-axis for 180° otherwise inverted orientation
+        // Rotate playground about y-axis for 180ï¿½ otherwise inverted orientation
         arPlayground.transform.Rotate(Vector3.up, 180);
 
         // Apply height offset
