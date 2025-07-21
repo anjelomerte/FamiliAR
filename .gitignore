@@ -85,6 +85,6 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 #Exclude large packages (e.g. Vuforia, MixedReality etc.)
-#/Packages/com.ptc.vuforia.engine-10.18.4.tgz
+/Packages/com.ptc.vuforia.engine-11.3.4.tgz
 /Packages/MixedReality/com.microsoft.spatialaudio.spatializer.unity-2.0.55.tgz
 
